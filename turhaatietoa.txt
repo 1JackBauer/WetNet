@@ -1,3 +1,6 @@
+Vahvistan turhan tiedon vastaanoton.
+
+
 processor	: 0
 vendor_id	: AuthenticAMD
 cpu family	: 23
