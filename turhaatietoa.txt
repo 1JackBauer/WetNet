@@ -1,5 +1,6 @@
 Vahvistan turhan tiedon vastaanoton.
 
+Konfliktitesti. T: Otto
 
 processor	: 0
 vendor_id	: AuthenticAMD
