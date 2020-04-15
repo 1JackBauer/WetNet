@@ -2,8 +2,10 @@ Vahvistan turhan tiedon vastaanoton.
 
 Konfliktitesti. T: Otto
 
+JA POISTI LISÄKSI vendor_id riviltä kolme viimeistä kirjanta "AMD"
+KALLE LISÄSI
 processor	: 0
-vendor_id	: AuthenticAMD
+vendor_id	: Authentic
 cpu family	: 23
 model		: 24
 model name	: AMD Ryzen 5 PRO 3500U w/ Radeon Vega Mobile Gfx
